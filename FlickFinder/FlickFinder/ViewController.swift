@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     
     // MARK: Outlets
     
-    @IBOutlet weak var photoImageView: UIImageView!
+    @IBOutlet weak var photoImageView765756: UIImageView!
     @IBOutlet weak var photoTitleLabel: UILabel!
     @IBOutlet weak var phraseTextField: UITextField!
     @IBOutlet weak var phraseSearchButton: UIButton!
