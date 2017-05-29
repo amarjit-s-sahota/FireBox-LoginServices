@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     
     // MARK: Outlets
     
-    @IBOutlet weak var photoImageView_Amarjit: UIImageView!
+    @IBOutlet weak var photoImageView_Amarjit65436543: UIImageView!
 
     @IBOutlet weak var photoImageView: UIImageView!
     @IBOutlet weak var photoTitleLabel: UILabel!
